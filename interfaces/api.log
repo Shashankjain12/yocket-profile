@@ -1,0 +1,824 @@
+2022-03-25 16:21:30,851 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 16:21:30,860 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2022-03-25 16:21:30,862 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 16:21:31,044 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 16:21:31,047 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 16:21:31,062 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 16:21:40,986 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 16:21:40] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 16:21:40,998 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 16:21:40] "GET /swaggerui/droid-sans.css HTTP/1.1" 200 -
+2022-03-25 16:21:41,000 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 16:21:41] "GET /swaggerui/swagger-ui.css HTTP/1.1" 200 -
+2022-03-25 16:21:41,001 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 16:21:41] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 200 -
+2022-03-25 16:21:41,001 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 16:21:41] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2022-03-25 16:21:41,146 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 16:21:41] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 16:21:41,160 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 16:21:41] "GET /swaggerui/favicon-32x32.png HTTP/1.1" 200 -
+2022-03-25 16:21:41,162 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 16:21:41] "GET /swaggerui/favicon-16x16.png HTTP/1.1" 200 -
+2022-03-25 16:21:41,191 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 16:21:41] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+2022-03-25 16:21:41,196 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 16:21:41] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+2022-03-25 16:27:34,002 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/posts.py', reloading
+2022-03-25 16:27:34,063 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 16:27:34,384 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 16:27:34,389 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 16:27:34,404 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 16:27:38,614 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 16:27:38] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 16:27:38,753 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 16:27:38] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 16:27:47,686 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/posts.py', reloading
+2022-03-25 16:27:47,724 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 16:27:47,966 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 16:27:47,972 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 16:27:47,989 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 16:27:49,092 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 16:27:49] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 16:27:49,215 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 16:27:49] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 16:49:50,423 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 16:49:50,443 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2022-03-25 16:49:50,461 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 16:49:50,643 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 16:49:50,646 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 16:49:50,672 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 16:49:57,118 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 16:49:57] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 16:49:57,251 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 16:49:57] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 17:06:44,017 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/serializers.py', reloading
+2022-03-25 17:06:44,073 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 17:31:31,967 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 17:31:31,974 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2022-03-25 17:31:31,974 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 17:31:32,213 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 17:31:32,216 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 17:31:32,229 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 17:31:39,513 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 17:31:39] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 17:31:39,649 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 17:31:39] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 17:31:54,620 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 17:31:54] "GET /api/posts/ HTTP/1.1" 200 -
+2022-03-25 17:35:51,201 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/serializers.py', reloading
+2022-03-25 17:35:51,266 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 17:35:51,611 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 17:35:51,616 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 17:35:51,628 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 17:36:16,421 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/model.py', reloading
+2022-03-25 17:36:16,472 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 17:36:16,774 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 17:36:16,779 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 17:36:16,788 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 17:38:33,480 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/functions.py', reloading
+2022-03-25 17:38:33,539 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 17:38:33,929 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 17:38:33,934 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 17:38:33,944 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 17:41:05,354 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/functions.py', reloading
+2022-03-25 17:41:05,416 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 17:41:05,728 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 17:41:05,733 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 17:41:05,742 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 17:41:17,149 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 17:41:17,201 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 17:41:17,498 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 17:41:17,503 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 17:41:17,512 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:22:55,254 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 18:22:55,334 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:22:55,675 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:22:55,680 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 18:22:55,690 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:23:42,009 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:23:42,015 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2022-03-25 18:23:42,015 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:23:42,258 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:23:42,261 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 18:23:42,271 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:23:45,058 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:23:45] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 18:23:45,211 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:23:45] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 18:26:10,655 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/serializers.py', reloading
+2022-03-25 18:26:10,718 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:26:11,090 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:26:11,096 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 18:26:11,108 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:26:14,415 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:26:14] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 18:26:14,541 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:26:14] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 18:26:20,367 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/serializers.py', reloading
+2022-03-25 18:26:20,420 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:26:20,715 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:26:20,720 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 18:26:20,729 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:26:24,524 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:26:24,528 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2022-03-25 18:26:24,528 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:26:24,765 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:26:24,769 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 18:26:24,777 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:30:38,653 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/posts.py', reloading
+2022-03-25 18:30:38,705 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:30:39,006 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:30:39,010 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 18:30:39,020 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:30:44,016 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:30:44,021 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2022-03-25 18:30:44,021 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:30:44,265 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:30:44,269 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 18:30:44,277 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:30:48,018 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:30:48] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 18:30:48,145 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:30:48] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 18:30:54,600 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/posts.py', reloading
+2022-03-25 18:30:54,656 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:30:54,975 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:30:54,980 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 18:30:54,990 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:31:02,194 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/serializers.py', reloading
+2022-03-25 18:31:02,260 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:31:02,567 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:31:02,572 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 18:31:02,582 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:31:04,376 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:31:04] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 18:31:04,432 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:31:04] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 18:32:05,742 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/serializers.py', reloading
+2022-03-25 18:32:05,794 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:34:54,362 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:34:54,368 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2022-03-25 18:34:54,369 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:34:54,608 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:34:54,612 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 18:34:54,622 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:34:58,037 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:34:58] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 18:34:58,103 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:34:58] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 18:36:56,242 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:36:56] "POST /api/users HTTP/1.1" 500 -
+2022-03-25 18:38:12,528 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 18:38:12,597 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:38:12,898 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:38:12,902 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 18:38:12,915 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:38:22,558 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:38:22] "POST /api/users HTTP/1.1" 500 -
+2022-03-25 18:38:48,936 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 18:38:48,990 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:38:49,291 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:38:49,296 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 18:38:49,306 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:38:51,845 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:38:51] "POST /api/users HTTP/1.1" 500 -
+2022-03-25 18:39:07,859 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 18:39:07,918 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:39:08,214 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:39:08,219 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 18:39:08,229 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:39:10,899 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:39:10] "POST /api/users HTTP/1.1" 500 -
+2022-03-25 18:39:35,006 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 18:39:35,063 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:39:35,361 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:39:35,366 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 18:39:35,377 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:39:37,422 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:39:37] "POST /api/users HTTP/1.1" 500 -
+2022-03-25 18:40:04,147 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 18:40:04,208 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:40:04,519 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:40:04,523 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 18:40:04,533 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:40:07,323 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:40:07] "POST /api/users HTTP/1.1" 500 -
+2022-03-25 18:40:37,455 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 18:40:37,513 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:40:37,835 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:40:37,840 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 18:40:37,850 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:40:40,326 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:40:40] "POST /api/users HTTP/1.1" 500 -
+2022-03-25 18:45:15,235 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 18:45:15,301 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:45:15,662 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:45:15,667 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 18:45:15,680 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:45:19,976 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:45:19] "POST /api/users HTTP/1.1" 500 -
+2022-03-25 18:45:32,166 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 18:45:32,255 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:45:32,555 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:45:32,564 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 18:45:32,575 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:45:36,928 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:45:36] "POST /api/users HTTP/1.1" 500 -
+2022-03-25 18:46:34,612 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 18:46:34,694 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:46:35,005 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:46:35,017 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 18:46:35,038 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:46:52,835 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:46:52] "POST /api/users HTTP/1.1" 500 -
+2022-03-25 18:49:03,165 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 18:49:03,240 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:49:03,623 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:49:03,628 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 18:49:03,639 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:49:07,732 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:49:07] "POST /api/users HTTP/1.1" 201 -
+2022-03-25 18:49:56,366 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 18:49:56,433 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:49:56,750 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:49:56,754 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 18:49:56,770 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:49:59,753 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:49:59] "POST /api/users HTTP/1.1" 402 -
+2022-03-25 18:50:07,297 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:50:07] "POST /api/users HTTP/1.1" 201 -
+2022-03-25 18:55:04,569 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/serializers.py', reloading
+2022-03-25 18:55:04,631 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:55:04,997 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:55:05,002 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 18:55:05,015 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:55:09,097 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:55:09] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 18:55:09,165 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:55:09] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 18:55:14,283 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:55:14] "POST /api/users HTTP/1.1" 201 -
+2022-03-25 18:56:53,724 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 18:56:53,797 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:56:54,126 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:56:54,131 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 18:56:54,144 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:57:43,745 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/posts.py', reloading
+2022-03-25 18:57:43,792 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:58:38,692 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:58:38,698 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2022-03-25 18:58:38,699 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:58:38,932 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:58:38,935 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 18:58:38,946 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:58:41,536 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:58:41] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 18:58:41,547 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:58:41] "GET /swaggerui/droid-sans.css HTTP/1.1" 200 -
+2022-03-25 18:58:41,652 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:58:41] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 18:58:47,116 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:58:47] "GET /api/users HTTP/1.1" 500 -
+2022-03-25 18:59:15,143 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 18:59:15,198 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 18:59:15,492 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 18:59:15,496 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 18:59:15,510 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 18:59:19,255 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 18:59:19] "GET /api/users HTTP/1.1" 200 -
+2022-03-25 19:03:54,941 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 19:03:55,025 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 19:03:55,337 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 19:03:55,342 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 19:03:55,351 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 19:03:59,891 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 19:03:59] "GET /api/users HTTP/1.1" 200 -
+2022-03-25 19:04:58,670 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 19:04:58,724 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 19:04:59,037 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 19:04:59,041 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 19:04:59,057 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 19:06:37,596 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/posts.py', reloading
+2022-03-25 19:06:37,662 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 19:15:33,127 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 19:15:33,133 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2022-03-25 19:15:33,134 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 19:15:33,384 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 19:15:33,390 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 19:15:33,400 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 19:15:36,738 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 19:15:36] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 19:15:36,857 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 19:15:36] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 19:18:26,675 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/serializers.py', reloading
+2022-03-25 19:18:26,752 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 19:18:27,091 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 19:18:27,096 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 19:18:27,107 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 19:18:45,705 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/posts.py', reloading
+2022-03-25 19:18:45,756 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 19:18:46,051 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 19:18:46,057 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 19:18:46,067 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 19:18:49,447 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 19:18:49] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 19:18:49,563 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 19:18:49] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 19:19:09,930 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 19:19:09] "POST /api/posts HTTP/1.1" 500 -
+2022-03-25 19:20:19,387 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 19:20:19] "GET /api/users HTTP/1.1" 200 -
+2022-03-25 19:21:47,477 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 19:21:47,532 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 19:21:47,830 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 19:21:47,834 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 19:21:47,844 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 19:22:08,544 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 19:22:08] "POST /api/posts HTTP/1.1" 500 -
+2022-03-25 19:22:42,790 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 19:22:42,845 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 19:22:43,135 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 19:22:43,140 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 19:22:43,150 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 19:22:49,340 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 19:22:49] "POST /api/posts HTTP/1.1" 201 -
+2022-03-25 19:22:54,282 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 19:22:54] "GET /api/users HTTP/1.1" 200 -
+2022-03-25 19:23:11,086 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 19:23:11,138 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 19:23:11,488 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 19:23:11,493 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 19:23:11,503 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 19:23:16,037 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 19:23:16] "POST /api/posts HTTP/1.1" 201 -
+2022-03-25 19:23:18,847 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 19:23:18] "GET /api/users HTTP/1.1" 200 -
+2022-03-25 20:35:59,378 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 20:35:59] "GET /api/posts HTTP/1.1" 200 -
+2022-03-25 20:38:08,779 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/serializers.py', reloading
+2022-03-25 20:38:08,840 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 20:38:09,220 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 20:38:09,226 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 20:38:09,240 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 20:41:33,236 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/posts.py', reloading
+2022-03-25 20:41:33,284 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 20:52:20,980 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 20:52:20,987 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2022-03-25 20:52:20,988 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 20:52:21,224 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 20:52:21,227 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 20:52:21,240 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 20:52:25,554 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 20:52:25] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 20:52:25,682 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 20:52:25] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 20:52:31,373 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 20:52:31] "GET /api/comments HTTP/1.1" 500 -
+2022-03-25 20:53:00,344 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 20:53:00] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 20:53:00,427 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 20:53:00] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 20:53:00,550 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 20:53:00] "GET /api/posts HTTP/1.1" 200 -
+2022-03-25 20:53:04,999 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 20:53:04] "GET /api/posts HTTP/1.1" 200 -
+2022-03-25 20:54:11,969 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 20:54:12,029 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 20:54:12,364 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 20:54:12,369 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 20:54:12,380 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 20:54:20,150 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 20:54:20] "GET /api/comments HTTP/1.1" 500 -
+2022-03-25 20:55:03,126 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/model.py', reloading
+2022-03-25 20:55:03,191 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 21:16:55,466 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 21:16:55,472 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2022-03-25 21:16:55,473 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 21:16:55,704 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 21:16:55,708 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 21:16:55,721 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 21:17:10,206 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:17:10] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 21:17:10,319 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:17:10] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 21:17:15,827 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:17:15] "GET /api/posts HTTP/1.1" 200 -
+2022-03-25 21:17:37,970 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:17:37] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 21:17:38,012 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:17:38] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 21:18:04,997 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:18:04] "GET /api HTTP/1.1" 308 -
+2022-03-25 21:18:05,004 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:18:05] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 21:18:05,028 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:18:05] "GET /swaggerui/droid-sans.css HTTP/1.1" 200 -
+2022-03-25 21:18:05,036 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:18:05] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 200 -
+2022-03-25 21:18:05,037 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:18:05] "GET /swaggerui/swagger-ui.css HTTP/1.1" 200 -
+2022-03-25 21:18:05,038 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:18:05] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2022-03-25 21:18:05,113 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:18:05] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 21:18:05,143 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:18:05] "GET /swaggerui/favicon-32x32.png HTTP/1.1" 200 -
+2022-03-25 21:18:39,817 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:18:39] "GET /api/comments/db818a0e-ac42-11ec-864a-4287cb511404 HTTP/1.1" 500 -
+2022-03-25 21:19:16,169 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 21:19:16,246 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 21:19:16,618 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 21:19:16,623 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 21:19:16,635 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 21:19:22,244 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:19:22] "GET /api/comments/db818a0e-ac42-11ec-864a-4287cb511404 HTTP/1.1" 500 -
+2022-03-25 21:19:50,661 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 21:19:50,716 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 21:19:51,026 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 21:19:51,031 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 21:19:51,040 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 21:19:54,440 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:19:54] "GET /api/comments/db818a0e-ac42-11ec-864a-4287cb511404 HTTP/1.1" 200 -
+2022-03-25 21:20:07,559 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 21:20:07,614 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 21:20:07,917 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 21:20:07,922 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 21:20:07,933 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 21:20:25,512 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 21:20:25,567 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 21:20:25,882 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 21:20:25,887 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 21:20:25,897 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 21:20:44,575 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 21:20:44,625 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 21:20:44,942 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 21:20:44,946 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 21:20:44,956 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 21:21:14,174 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:21:14] "GET /api/posts HTTP/1.1" 200 -
+2022-03-25 21:21:39,564 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:21:39] "GET /api/users HTTP/1.1" 200 -
+2022-03-25 21:22:18,068 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/serializers.py', reloading
+2022-03-25 21:22:18,130 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 21:22:18,435 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 21:22:18,439 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 21:22:18,450 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 21:22:26,456 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:22:26] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 21:22:26,508 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:22:26] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 21:22:39,326 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:22:39] "POST /api/comments HTTP/1.1" 500 -
+2022-03-25 21:23:17,420 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 21:23:17,482 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 21:23:17,805 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 21:23:17,809 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 21:23:17,819 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 21:23:23,407 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:23:23] "POST /api/comments HTTP/1.1" 500 -
+2022-03-25 21:24:31,218 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 21:24:31,303 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 21:24:31,604 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 21:24:31,608 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 21:24:31,620 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 21:25:06,985 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:25:06] "POST /api/comments HTTP/1.1" 201 -
+2022-03-25 21:25:34,904 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:25:34] "GET /api/users HTTP/1.1" 200 -
+2022-03-25 21:26:23,271 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:26:23] "GET /api/comments/db818a0e-ac42-11ec-864a-4287cb511404 HTTP/1.1" 200 -
+2022-03-25 21:27:36,671 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/posts.py', reloading
+2022-03-25 21:27:36,734 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 21:27:37,113 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 21:27:37,118 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 21:27:37,130 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 21:27:40,418 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:27:40] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 21:27:40,471 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:27:40] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 21:28:54,926 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/serializers.py', reloading
+2022-03-25 21:28:54,968 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 21:28:55,294 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 21:28:55,302 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 21:28:55,312 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 21:29:05,640 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/posts.py', reloading
+2022-03-25 21:29:05,712 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 21:29:06,019 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 21:29:06,024 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 21:29:06,034 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 21:29:41,214 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/errorcodes.py', reloading
+2022-03-25 21:29:41,267 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 21:29:41,590 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 21:29:41,595 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 21:29:41,605 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 21:29:50,912 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/model.py', reloading
+2022-03-25 21:29:50,943 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 21:29:51,279 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 21:29:51,283 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 21:29:51,293 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 21:30:28,487 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 21:30:28,554 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 21:34:05,839 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 21:34:05,847 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2022-03-25 21:34:05,847 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 21:34:06,097 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 21:34:06,100 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 21:34:06,111 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 21:34:08,870 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:34:08] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 21:34:08,991 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:34:08] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 21:35:57,831 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/posts.py', reloading
+2022-03-25 21:35:57,908 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 21:35:58,218 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 21:35:58,226 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 21:35:58,235 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 21:37:22,924 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/xaas/app.py', reloading
+2022-03-25 21:37:23,007 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 21:37:23,328 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 21:37:23,333 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 21:37:23,342 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 21:37:27,482 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/posts.py', reloading
+2022-03-25 21:37:27,541 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 21:37:27,777 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 21:37:27,782 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 21:37:27,791 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 21:37:32,635 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:37:32] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 21:37:32,780 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:37:32] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 21:37:54,641 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/posts.py', reloading
+2022-03-25 21:37:54,702 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 21:37:55,030 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 21:37:55,035 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 21:37:55,046 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 21:37:57,229 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:37:57] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 21:37:57,337 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:37:57] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 21:38:13,624 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/comments.py', reloading
+2022-03-25 21:38:13,677 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 21:38:14,019 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 21:38:14,024 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 21:38:14,036 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 21:38:16,405 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:38:16] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 21:38:16,485 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 21:38:16] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 21:47:51,041 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/xaas/app.py', reloading
+2022-03-25 21:47:51,124 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 22:19:09,698 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 22:19:09,704 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2022-03-25 22:19:09,705 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 22:19:09,953 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 22:19:09,956 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 22:19:09,969 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 22:19:13,082 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 22:19:13] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 22:19:13,244 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 22:19:13] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 22:19:54,396 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 22:19:54] "GET /api/users/ HTTP/1.1" 200 -
+2022-03-25 22:20:53,026 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 22:20:53] "POST /api/like/ HTTP/1.1" 500 -
+2022-03-25 22:22:12,899 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/likes.py', reloading
+2022-03-25 22:22:12,974 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 22:22:13,309 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 22:22:13,314 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 22:22:13,324 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 22:22:18,618 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 22:22:18] "POST /api/like/ HTTP/1.1" 500 -
+2022-03-25 22:24:39,975 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 22:24:40,032 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 22:24:40,331 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 22:24:40,336 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 22:24:40,350 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 22:24:48,859 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 22:24:48] "POST /api/like/ HTTP/1.1" 500 -
+2022-03-25 22:40:49,910 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 22:40:49,970 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 22:40:50,374 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 22:40:50,384 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 22:40:50,394 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 22:40:53,953 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 22:40:53] "POST /api/like/ HTTP/1.1" 500 -
+2022-03-25 22:42:34,999 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 22:42:35,069 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 22:42:35,396 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 22:42:35,401 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 22:42:35,411 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 22:42:37,350 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 22:42:37] "POST /api/like/ HTTP/1.1" 500 -
+2022-03-25 22:50:58,334 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 22:50:58,395 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 22:50:58,704 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 22:50:58,708 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 22:50:58,722 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 22:51:09,096 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 22:51:09,161 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 22:51:09,481 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 22:51:09,486 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 22:51:09,495 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 22:51:13,829 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 22:51:13] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-25 22:51:19,640 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 22:51:19] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-25 22:52:48,053 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 22:52:48,114 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 22:52:48,481 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 22:52:48,487 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 22:52:48,499 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 22:52:51,058 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 22:52:51] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-25 22:55:07,381 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 22:55:07,442 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 22:55:07,759 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 22:55:07,765 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 22:55:07,774 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 22:55:25,416 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 22:55:25] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-25 22:55:39,875 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 22:55:39] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-25 22:55:53,624 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 22:55:53] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-25 22:55:57,828 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 22:55:57] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-25 22:59:49,758 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/model.py', reloading
+2022-03-25 22:59:49,835 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 22:59:50,276 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 22:59:50,286 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 22:59:50,310 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 23:00:17,975 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:00:17] "POST /api/like/ HTTP/1.1" 500 -
+2022-03-25 23:00:39,906 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/model.py', reloading
+2022-03-25 23:00:39,975 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 23:00:40,344 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 23:00:40,349 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 23:00:40,361 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 23:00:46,968 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:00:46] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-25 23:00:52,101 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:00:52] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-25 23:01:47,653 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 23:01:47,716 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 23:01:48,025 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 23:01:48,029 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 23:01:48,039 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 23:02:11,213 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:02:11] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-25 23:02:19,858 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:02:19] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-25 23:04:25,640 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 23:04:25,706 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 23:04:26,053 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 23:04:26,058 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 23:04:26,068 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 23:04:55,628 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:04:55] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-25 23:04:59,742 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:04:59] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-25 23:08:17,694 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 23:08:17,765 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 23:08:18,073 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 23:08:18,078 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 23:08:18,091 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 23:09:07,968 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 23:09:08,022 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 23:09:08,319 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 23:09:08,328 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 23:09:08,338 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 23:09:10,679 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:09:10] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-25 23:09:12,977 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:09:12] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-25 23:09:36,266 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:09:36] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-25 23:09:43,547 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:09:43] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-25 23:09:49,684 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:09:49] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-25 23:10:21,017 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:10:21] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-25 23:10:43,242 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:10:43] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-25 23:34:55,636 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 23:34:55,704 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 23:34:56,129 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 23:34:56,134 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 23:34:56,146 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 23:35:12,428 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:35:12] "GET /api/ HTTP/1.1" 200 -
+2022-03-25 23:35:12,487 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:35:12] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 23:35:47,246 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:35:47] "GET /api/comments/f1221db8-ac53-11ec-a487-4287cb511404 HTTP/1.1" 500 -
+2022-03-25 23:36:44,334 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:36:44] "GET /api/comments/db818a0e-ac42-11ec-864a-4287cb511404 HTTP/1.1" 200 -
+2022-03-25 23:37:30,024 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:37:30] "POST /api/like/ HTTP/1.1" 500 -
+2022-03-25 23:38:58,090 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 23:38:58,160 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 23:38:58,559 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 23:38:58,564 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 23:38:58,577 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 23:39:02,261 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:39:02] "POST /api/like/ HTTP/1.1" 500 -
+2022-03-25 23:39:17,213 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 23:39:17,275 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 23:39:17,576 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 23:39:17,580 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 23:39:17,590 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 23:39:25,848 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 23:39:25,903 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 23:39:26,260 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 23:39:26,268 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 23:39:26,280 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 23:39:29,887 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:39:29] "POST /api/like/ HTTP/1.1" 500 -
+2022-03-25 23:45:56,720 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 23:45:56,782 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 23:45:57,111 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 23:45:57,116 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 23:45:57,127 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 23:46:02,555 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:46:02] "POST /api/like/ HTTP/1.1" 500 -
+2022-03-25 23:46:52,754 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 23:46:52,818 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 23:46:53,136 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 23:46:53,141 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 23:46:53,152 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 23:46:54,921 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:46:54] "POST /api/like/ HTTP/1.1" 500 -
+2022-03-25 23:49:19,219 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 23:49:19,286 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 23:49:19,613 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 23:49:19,618 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 23:49:19,630 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 23:49:24,346 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:49:24] "POST /api/like/ HTTP/1.1" 500 -
+2022-03-25 23:50:09,098 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 23:50:09,171 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 23:50:09,501 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 23:50:09,506 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 23:50:09,516 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 23:50:11,521 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 23:50:11,525 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2022-03-25 23:50:11,526 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 23:50:11,783 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 23:50:11,786 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 23:50:11,795 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 23:50:15,040 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:50:15] "POST /api/like/ HTTP/1.1" 500 -
+2022-03-25 23:51:50,744 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:51:50] "POST /api/comments/ HTTP/1.1" 201 -
+2022-03-25 23:52:23,726 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:52:23] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-25 23:53:22,807 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:53:22] "POST /api/like/ HTTP/1.1" 500 -
+2022-03-25 23:54:45,896 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 23:54:45,967 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 23:54:46,327 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 23:54:46,332 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 23:54:46,346 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 23:54:55,394 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:54:55] "POST /api/like/ HTTP/1.1" 500 -
+2022-03-25 23:58:28,025 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 23:58:28,096 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 23:58:28,497 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 23:58:28,502 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 23:58:28,514 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 23:58:33,682 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-25 23:58:33,736 - werkzeug - INFO -  * Restarting with stat
+2022-03-25 23:58:34,052 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-25 23:58:34,057 - werkzeug - WARNING -  * Debugger is active!
+2022-03-25 23:58:34,067 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-25 23:58:39,555 - werkzeug - INFO - 127.0.0.1 - - [25/Mar/2022 23:58:39] "POST /api/like/ HTTP/1.1" 500 -
+2022-03-26 00:00:06,133 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/model.py', reloading
+2022-03-26 00:00:06,204 - werkzeug - INFO -  * Restarting with stat
+2022-03-26 00:00:06,516 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 00:00:06,521 - werkzeug - WARNING -  * Debugger is active!
+2022-03-26 00:00:06,531 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-26 00:00:26,194 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-26 00:00:26,245 - werkzeug - INFO -  * Restarting with stat
+2022-03-26 00:00:26,557 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 00:00:26,562 - werkzeug - WARNING -  * Debugger is active!
+2022-03-26 00:00:26,571 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-26 00:00:35,352 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 00:00:35] "POST /api/like/ HTTP/1.1" 500 -
+2022-03-26 00:02:00,290 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 00:02:00] "POST /api/comments/ HTTP/1.1" 201 -
+2022-03-26 00:02:50,327 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 00:02:50] "POST /api/like/ HTTP/1.1" 500 -
+2022-03-26 00:05:12,256 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-26 00:05:12,352 - werkzeug - INFO -  * Restarting with stat
+2022-03-26 00:05:12,791 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 00:05:12,800 - werkzeug - WARNING -  * Debugger is active!
+2022-03-26 00:05:12,815 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-26 00:05:17,580 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 00:05:17] "POST /api/like/ HTTP/1.1" 500 -
+2022-03-26 00:09:54,192 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-26 00:09:54,268 - werkzeug - INFO -  * Restarting with stat
+2022-03-26 00:09:54,735 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 00:09:54,740 - werkzeug - WARNING -  * Debugger is active!
+2022-03-26 00:09:54,757 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-26 00:09:59,771 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 00:09:59] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-26 00:10:36,744 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 00:10:36] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-26 00:10:39,736 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 00:10:39] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-26 00:11:10,206 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-26 00:11:10,266 - werkzeug - INFO -  * Restarting with stat
+2022-03-26 00:11:10,580 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 00:11:10,585 - werkzeug - WARNING -  * Debugger is active!
+2022-03-26 00:11:10,595 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-26 00:11:13,125 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 00:11:13] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-26 00:11:17,110 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 00:11:17] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-26 00:12:09,522 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-26 00:12:09,580 - werkzeug - INFO -  * Restarting with stat
+2022-03-26 00:12:09,893 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 00:12:09,897 - werkzeug - WARNING -  * Debugger is active!
+2022-03-26 00:12:09,907 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-26 00:12:13,336 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 00:12:13] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-26 00:13:03,361 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-26 00:13:03,428 - werkzeug - INFO -  * Restarting with stat
+2022-03-26 00:13:03,733 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 00:13:03,738 - werkzeug - WARNING -  * Debugger is active!
+2022-03-26 00:13:03,748 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-26 00:13:19,274 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/likes.py', reloading
+2022-03-26 00:13:19,327 - werkzeug - INFO -  * Restarting with stat
+2022-03-26 00:13:19,659 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 00:13:19,663 - werkzeug - WARNING -  * Debugger is active!
+2022-03-26 00:13:19,673 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-26 00:13:23,047 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 00:13:23] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-26 00:14:43,120 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 00:14:43,126 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2022-03-26 00:14:43,126 - werkzeug - INFO -  * Restarting with stat
+2022-03-26 00:14:43,371 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 00:14:43,374 - werkzeug - WARNING -  * Debugger is active!
+2022-03-26 00:14:43,385 - werkzeug - INFO -  * Debugger PIN: 154-861-362
+2022-03-26 00:14:49,724 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 00:14:49] "GET /api/users/ HTTP/1.1" 200 -
+2022-03-26 14:29:13,994 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 14:29:14,005 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2022-03-26 14:29:14,006 - werkzeug - INFO -  * Restarting with stat
+2022-03-26 14:29:14,240 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 14:29:14,244 - werkzeug - WARNING -  * Debugger is active!
+2022-03-26 14:29:14,260 - werkzeug - INFO -  * Debugger PIN: 108-987-551
+2022-03-26 14:47:44,630 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 14:47:44,638 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2022-03-26 14:47:44,639 - werkzeug - INFO -  * Restarting with stat
+2022-03-26 14:47:44,870 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 14:47:44,874 - werkzeug - WARNING -  * Debugger is active!
+2022-03-26 14:47:44,884 - werkzeug - INFO -  * Debugger PIN: 108-987-551
+2022-03-26 14:47:50,423 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 14:47:50] "GET / HTTP/1.1" 404 -
+2022-03-26 14:47:50,436 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 14:47:50] "GET /favicon.ico HTTP/1.1" 404 -
+2022-03-26 14:47:52,198 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 14:47:52] "GET /api/ HTTP/1.1" 200 -
+2022-03-26 14:47:52,205 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 14:47:52] "GET /swaggerui/swagger-ui.css HTTP/1.1" 304 -
+2022-03-26 14:47:52,206 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 14:47:52] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 304 -
+2022-03-26 14:47:52,207 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 14:47:52] "GET /swaggerui/droid-sans.css HTTP/1.1" 304 -
+2022-03-26 14:47:52,207 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 14:47:52] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 304 -
+2022-03-26 14:47:52,321 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 14:47:52] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-26 14:48:05,812 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 14:48:05] "POST /api/users/ HTTP/1.1" 201 -
+2022-03-26 14:48:14,563 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 14:48:14] "GET /api/users/ HTTP/1.1" 200 -
+2022-03-26 14:48:46,389 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 14:48:46] "POST /api/posts/ HTTP/1.1" 201 -
+2022-03-26 14:48:54,031 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 14:48:54] "GET /api/posts/ HTTP/1.1" 500 -
+2022-03-26 14:49:44,907 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 14:49:44] "GET /api/posts/ HTTP/1.1" 500 -
+2022-03-26 14:49:57,909 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/serializers.py', reloading
+2022-03-26 14:49:57,963 - werkzeug - INFO -  * Restarting with stat
+2022-03-26 14:49:58,264 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 14:49:58,270 - werkzeug - WARNING -  * Debugger is active!
+2022-03-26 14:49:58,293 - werkzeug - INFO -  * Debugger PIN: 108-987-551
+2022-03-26 14:50:02,297 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 14:50:02] "GET /api/posts/ HTTP/1.1" 500 -
+2022-03-26 14:51:34,980 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-26 14:51:35,030 - werkzeug - INFO -  * Restarting with stat
+2022-03-26 14:51:35,277 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 14:51:35,281 - werkzeug - WARNING -  * Debugger is active!
+2022-03-26 14:51:35,292 - werkzeug - INFO -  * Debugger PIN: 108-987-551
+2022-03-26 14:51:39,556 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 14:51:39] "GET /api/posts/ HTTP/1.1" 500 -
+2022-03-26 14:52:00,935 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-26 14:52:00,984 - werkzeug - INFO -  * Restarting with stat
+2022-03-26 14:52:01,258 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 14:52:01,262 - werkzeug - WARNING -  * Debugger is active!
+2022-03-26 14:52:01,271 - werkzeug - INFO -  * Debugger PIN: 108-987-551
+2022-03-26 14:52:37,134 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-26 14:52:37,185 - werkzeug - INFO -  * Restarting with stat
+2022-03-26 14:52:37,489 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 14:52:37,497 - werkzeug - WARNING -  * Debugger is active!
+2022-03-26 14:52:37,508 - werkzeug - INFO -  * Debugger PIN: 108-987-551
+2022-03-26 14:52:39,615 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 14:52:39] "GET /api/posts/ HTTP/1.1" 500 -
+2022-03-26 14:53:42,043 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/serializers.py', reloading
+2022-03-26 14:53:42,089 - werkzeug - INFO -  * Restarting with stat
+2022-03-26 14:53:42,393 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 14:53:42,398 - werkzeug - WARNING -  * Debugger is active!
+2022-03-26 14:53:42,408 - werkzeug - INFO -  * Debugger PIN: 108-987-551
+2022-03-26 14:53:45,426 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 14:53:45] "GET /api/posts/ HTTP/1.1" 500 -
+2022-03-26 14:57:00,971 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 14:57:00] "GET /api/posts/ HTTP/1.1" 500 -
+2022-03-26 14:57:25,202 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 14:57:25,208 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2022-03-26 14:57:25,209 - werkzeug - INFO -  * Restarting with stat
+2022-03-26 14:57:25,444 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 14:57:25,448 - werkzeug - WARNING -  * Debugger is active!
+2022-03-26 14:57:25,460 - werkzeug - INFO -  * Debugger PIN: 108-987-551
+2022-03-26 14:57:28,459 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 14:57:28] "GET /api/posts/ HTTP/1.1" 500 -
+2022-03-26 14:57:41,832 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/serializers.py', reloading
+2022-03-26 14:57:41,881 - werkzeug - INFO -  * Restarting with stat
+2022-03-26 14:57:42,127 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 14:57:42,131 - werkzeug - WARNING -  * Debugger is active!
+2022-03-26 14:57:42,141 - werkzeug - INFO -  * Debugger PIN: 108-987-551
+2022-03-26 14:57:45,134 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 14:57:45] "GET /api/posts/ HTTP/1.1" 500 -
+2022-03-26 14:57:51,436 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 14:57:51,442 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2022-03-26 14:57:51,442 - werkzeug - INFO -  * Restarting with stat
+2022-03-26 14:57:51,674 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 14:57:51,678 - werkzeug - WARNING -  * Debugger is active!
+2022-03-26 14:57:51,690 - werkzeug - INFO -  * Debugger PIN: 108-987-551
+2022-03-26 14:57:55,698 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 14:57:55] "GET /api/posts/ HTTP/1.1" 500 -
+2022-03-26 14:58:14,258 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/serializers.py', reloading
+2022-03-26 14:58:14,311 - werkzeug - INFO -  * Restarting with stat
+2022-03-26 14:58:14,565 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 14:58:14,569 - werkzeug - WARNING -  * Debugger is active!
+2022-03-26 14:58:14,579 - werkzeug - INFO -  * Debugger PIN: 108-987-551
+2022-03-26 14:58:17,932 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 14:58:17] "GET /api/posts/ HTTP/1.1" 500 -
+2022-03-26 14:59:20,468 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/serializers.py', reloading
+2022-03-26 14:59:20,516 - werkzeug - INFO -  * Restarting with stat
+2022-03-26 14:59:20,835 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 14:59:20,840 - werkzeug - WARNING -  * Debugger is active!
+2022-03-26 14:59:20,850 - werkzeug - INFO -  * Debugger PIN: 108-987-551
+2022-03-26 14:59:44,332 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/database/dao.py', reloading
+2022-03-26 14:59:44,390 - werkzeug - INFO -  * Restarting with stat
+2022-03-26 14:59:44,690 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 14:59:44,695 - werkzeug - WARNING -  * Debugger is active!
+2022-03-26 14:59:44,705 - werkzeug - INFO -  * Debugger PIN: 108-987-551
+2022-03-26 15:00:02,546 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 15:00:02] "GET /api/ HTTP/1.1" 200 -
+2022-03-26 15:00:02,690 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 15:00:02] "GET /api/swagger.json HTTP/1.1" 200 -
+2022-03-26 15:00:11,898 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 15:00:11] "GET /api/users/ HTTP/1.1" 200 -
+2022-03-26 15:01:06,443 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 15:01:06] "POST /api/posts/ HTTP/1.1" 201 -
+2022-03-26 15:01:24,635 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 15:01:24] "GET /api/posts/ HTTP/1.1" 200 -
+2022-03-26 15:01:56,943 - werkzeug - INFO -  * Detected change in '/Users/shashankjain/Desktop/yocket/interfaces/api/caas/serializers.py', reloading
+2022-03-26 15:01:56,983 - werkzeug - INFO -  * Restarting with stat
+2022-03-26 15:01:57,281 - __main__ - INFO - >>>>> Starting development server at http://127.0.0.1:8888/api/ <<<<<
+2022-03-26 15:01:57,286 - werkzeug - WARNING -  * Debugger is active!
+2022-03-26 15:01:57,296 - werkzeug - INFO -  * Debugger PIN: 108-987-551
+2022-03-26 15:02:02,163 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 15:02:02] "POST /api/posts/ HTTP/1.1" 201 -
+2022-03-26 15:02:11,056 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 15:02:11] "GET /api/posts/ HTTP/1.1" 200 -
+2022-03-26 15:03:02,103 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 15:03:02] "POST /api/comments/ HTTP/1.1" 201 -
+2022-03-26 15:03:10,551 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 15:03:10] "POST /api/comments/ HTTP/1.1" 201 -
+2022-03-26 15:03:19,520 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 15:03:19] "GET /api/comments/7653c070-ace7-11ec-9be7-4287cb511403 HTTP/1.1" 200 -
+2022-03-26 15:03:30,596 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 15:03:30] "GET /api/users/ HTTP/1.1" 200 -
+2022-03-26 15:04:43,746 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 15:04:43] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-26 15:04:52,090 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 15:04:52] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-26 15:04:54,939 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 15:04:54] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-26 15:05:02,293 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 15:05:02] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-26 15:05:20,741 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 15:05:20] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-26 15:05:28,225 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 15:05:28] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-26 15:05:33,994 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 15:05:33] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-26 15:06:05,943 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 15:06:05] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-26 15:06:10,458 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 15:06:10] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-26 15:06:29,145 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 15:06:29] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-26 15:06:35,687 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 15:06:35] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-26 15:06:42,293 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 15:06:42] "POST /api/like/ HTTP/1.1" 201 -
+2022-03-26 15:06:44,503 - werkzeug - INFO - 127.0.0.1 - - [26/Mar/2022 15:06:44] "GET /api/swagger.json HTTP/1.1" 200 -

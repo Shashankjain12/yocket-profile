@@ -1,0 +1,15 @@
+Consider a scenario where you are a big spiderman fan and the latest spiderman
+movie has been released. You absolutely want to avoid spoilers on youtube, yet also
+browse through daily video content. You decide to make a basic script that blocks all
+spoiler videos on youtube. What should be the logic/solution to implement in this
+scenario?
+You can explain the answer in a textual format in bullet points
+
+
+The solution to the above problem can be implemented using keywords based filtering which can be implemented using the following ways :-
+1. As we are designing solutions for the upcoming spiderman movie we can think of specific keywords which involve spiderman such as spiderman, doctor octopus, marvel, lizard etc. Firstly, we need to gather specific words which involve that.
+
+2. Then after categorizing those words if the user is searching anything on youtube we need to simply remove those links or feeds which involve those specific words. That is we need to add a certain filter which will remove such contents involving those words.
+
+3. For implementing such a script we need a youtube parser which will parse across the youtube and remove those parsed contents specific to the user and based on that we can create such a chrome or any browser extension which will keep track of specific words and remove those contents based on filtering.
+   
